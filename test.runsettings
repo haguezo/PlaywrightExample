@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <NUnit>
+    <NumberOfTestWorkers>1</NumberOfTestWorkers>
+  </NUnit>
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <DEBUG>pw:api</DEBUG>
+      <HEADED>1</HEADED>
+      <BROWSER>chromium</BROWSER>
+    </EnvironmentVariables>
+  </RunConfiguration>
+</RunSettings>
